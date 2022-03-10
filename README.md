@@ -12,7 +12,7 @@ This is a flask application structure that allows developers to quicly get up an
 
 ## Screenshot
 
-<!-- <img src="" > -->
+<img src="https://github.com/amani-joseph/amani_flask_starter_pack/blob/master/app/static/images/127.0.0.1_5000_.png?raw=true" >
 
 ## Development Installation
 
@@ -52,7 +52,7 @@ python3 manage.py test
 
 Open the application on your browser `127.0.0.1:5000`.
 
-<<<<<<< HEAD
+
 
 ## Technology used
 
