@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# amani_moringa_flask_starter_pack
+# flask_starter_pack
 
 ## Author
 
@@ -8,7 +8,7 @@
 
 # Description
 
-This is a flask application structure that allows developers to quicly get up and running with development rather than spend ours configuring their application structure
+This is a flask application structure that allows developers to quicly get up and running with development rather than spend hours configuring the application structure
 
 ## Screenshot
 
